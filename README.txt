@@ -1,4 +1,4 @@
-Yahtzee_ios — Scratch 作品の PWA 版
+Yahtzee_ios (1) — Scratch 作品の PWA 版
 ====================================
 
 このフォルダは sb3-to-pwa で作りました。中身をそのまま Web サーバー
